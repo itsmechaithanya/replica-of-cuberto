@@ -81,7 +81,7 @@ Height:100%;
 }
 #homemain .headings h1:hover{
     color: transparent;
-    -webkit-text-stroke:.01px black ;
+    -webkit-text-stroke:1px black ;
 }
 #homelast{
     padding: 0vw 13vw;
